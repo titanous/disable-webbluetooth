@@ -1,7 +1,7 @@
 # Disable WebBluetooth
 
 [Disable
-Bluetooth](https://chrome.google.com/webstore/detail/disable-webusb/klhgchngppoiafianjllcholkbnpbejd)
+WebBluetooth](https://chrome.google.com/webstore/detail/disable-webbluetooth/cmbdmgflaalfkimclkgndgciniiandfc)
 is a Chrome extension that disables the WebBluetooth API. It has no
 configuration settings, and is suitable for force-installing via Chrome
 Enterprise management.
@@ -14,3 +14,5 @@ does not make the risks clear.
 
 Given the lack of widely-deployed uses of WebBluetooth, disabling it is
 a prudent defense-in-depth measure.
+
+_You may also be interested in [disabling WebUSB](https://github.com/titanous/disable-webusb)._
